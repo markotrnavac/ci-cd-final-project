@@ -1,4 +1,4 @@
-FROM python:3.9-slim
+FROM python:3.14-rc-alpine3.21
 
 # Establish a working folder
 WORKDIR /app
